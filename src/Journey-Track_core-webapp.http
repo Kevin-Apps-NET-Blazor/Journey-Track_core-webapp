@@ -1,0 +1,6 @@
+@Journey_Track_core_webapp_HostAddress = http://localhost:5175
+
+GET {{Journey_Track_core_webapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
